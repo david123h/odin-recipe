@@ -1,0 +1,41 @@
+.card {
+    width: 300px;
+    height: 260px;
+    margin:  auto;
+    background-color: white;
+}
+
+h1 {
+    color: rgb(246, 211, 15) ;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 16px;
+    border-radius: 10px;
+}
+
+ul li {
+    background-color: aqua;
+    border: 2px solid;
+    border-color: aqua;
+    border-radius: 9px;
+    padding: 5px;
+    margin:  8px 0;
+}
+
+ul {
+    list-style-type: none; /* Removes the bullets */
+    padding: 0; /* Removes the padding */
+    margin: 0; /* Removes the margin */
+}
+
+li {
+    margin: 0; /* Ensures no additional margin */
+    padding: 0; /* Ensures no additional padding */
+}
+
+a {
+    color: rgb(246, 211, 15) ;
+    text-decoration: none;
+
+}
