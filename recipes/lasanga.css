@@ -1,0 +1,25 @@
+
+body {
+    background-color: bisque;
+}
+.card{
+    width: 400px;
+    margin: 30px auto;
+    background-color: aliceblue;
+    padding: 17px 30px;
+    border-radius: 30px;
+}
+
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 20px;
+    text-align: center;
+    background-color: bisque;
+    padding: 8px;
+}
+ 
+img {
+    border-radius: 15px;
+    width: 392px;
+    margin: 4px;
+}
